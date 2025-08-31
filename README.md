@@ -63,6 +63,7 @@ python3 main.py
 ### Controls
 - Keys Left , Down , Right Arrow for changing rotor position
 - Use the Dropdown box to change Reflector and Rotors
+- Only alphabets and space are accepted (rest are ignored)
   
 ---
 

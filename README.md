@@ -5,7 +5,7 @@ A Python-based simulation of the legendary Enigma machine, the cipher device fam
 ---
 
 ## About
-- The Enigma Simulator is an interactive program that replicates the behavior of the real Enigma machine:
+- The Enigma Simulator is an interactive program that replicates the behavior of the real Enigma machine
 
 -  Step rotors and encrypt letters as the machine would
 
